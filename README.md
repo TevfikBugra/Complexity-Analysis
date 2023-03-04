@@ -1,7 +1,6 @@
-# Complexity-Analysis 
+  # Complexity-Analysis 
 This repository includes an assignment from IE201 Intermediate Programming course.  
   
-  # Homework 1
 ___December 8th, 2022___
 
 You are given a list containing prices where price[t] represents the price of gold at day t. This list contains historical prices of gold, and you are interested in calculating the maximum amount of profit you could have made in a single transaction (i.e. buy 1 gr of gold at a low price and then sell at a later day at a higher price). In other words, you need to choose a single day (b) to buy one gram of gold and a different day in the future (s) to sell it. You need to calculate the maximum possible profit (or return 0 if it is not possible to make profit). 
